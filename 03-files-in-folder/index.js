@@ -1,5 +1,4 @@
 // зпрашиваем необходимые модули
-const fs = require('fs');
 const path = require('path');
 const promis = require('fs/promises');
 // создаём пути, считываем файлы
